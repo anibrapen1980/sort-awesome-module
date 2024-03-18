@@ -1,0 +1,29 @@
+{
+  "name": "sort-awesome-module",
+  "version": "1.0.0",
+  "description": "An awesome Node.js module with interesting functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anibrapen1980/sort-awesome-module"
+  },
+  "dependencies": {
+    "tea-demonstration": "1.0.0",
+    "minti_fulkerson": "0.1.4",
+    "cosmic-arcana-seal": "1.0.0",
+    "evgeny32-data": "1.1.4",
+    "mackashley829-string-random": "1.1.4",
+    "curryd224-uuid-utils": "1.1.4",
+    "rate-random-array": "1.0.0",
+    "zenith-walk": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anibrapen1980/sort-awesome-module/issues"
+  },
+  "homepage": "https://github.com/anibrapen1980/sort-awesome-module#readme"
+}
